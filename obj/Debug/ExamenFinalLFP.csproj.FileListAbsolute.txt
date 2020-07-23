@@ -1,0 +1,10 @@
+C:\Users\jsola\source\repos\ExamenFinalLFP\bin\Debug\ExamenFinalLFP.exe.config
+C:\Users\jsola\source\repos\ExamenFinalLFP\bin\Debug\ExamenFinalLFP.exe
+C:\Users\jsola\source\repos\ExamenFinalLFP\bin\Debug\ExamenFinalLFP.pdb
+C:\Users\jsola\source\repos\ExamenFinalLFP\obj\Debug\ExamenFinalLFP.csprojAssemblyReference.cache
+C:\Users\jsola\source\repos\ExamenFinalLFP\obj\Debug\ExamenFinalLFP.Form1.resources
+C:\Users\jsola\source\repos\ExamenFinalLFP\obj\Debug\ExamenFinalLFP.Properties.Resources.resources
+C:\Users\jsola\source\repos\ExamenFinalLFP\obj\Debug\ExamenFinalLFP.csproj.GenerateResource.cache
+C:\Users\jsola\source\repos\ExamenFinalLFP\obj\Debug\ExamenFinalLFP.csproj.CoreCompileInputs.cache
+C:\Users\jsola\source\repos\ExamenFinalLFP\obj\Debug\ExamenFinalLFP.exe
+C:\Users\jsola\source\repos\ExamenFinalLFP\obj\Debug\ExamenFinalLFP.pdb
